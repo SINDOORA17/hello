@@ -1,0 +1,3 @@
+git init
+gti status
+git add. or git add filename.txt
